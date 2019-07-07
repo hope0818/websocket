@@ -1,0 +1,272 @@
+2018/03/28 13:56:33 [warn] 16820#17364: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 13:56:33 [emerg] 16820#17364: invalid event type "epoll" in D:\soft\nginx-1.12.2/conf/nginx.conf:14
+2018/03/28 15:05:06 [warn] 18232#17636: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:05:06 [emerg] 18232#17636: invalid event type "epoll" in D:\soft\nginx-1.12.2/conf/nginx.conf:14
+2018/03/28 15:07:53 [error] 7852#16896: *1 CreateFile() "D:\soft\nginx-1.12.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/03/28 15:08:40 [error] 7852#16896: *7 CreateFile() "D:\soft\nginx-1.12.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "devsys.plrt88.com", referrer: "http://devsys.plrt88.com/"
+2018/03/28 15:24:55 [warn] 6136#2664: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:24:55 [warn] 8628#5264: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:24:55 [warn] 9324#9672: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:24:55 [warn] 6576#9720: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:24:55 [warn] 10976#10552: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:24:55 [warn] 6476#6472: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:24:55 [warn] 6636#6644: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:24:55 [warn] 9080#996: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:24:55 [warn] 1100#6348: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:28:18 [warn] 5400#10476: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:28:19 [warn] 1760#6492: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:28:19 [warn] 3600#7204: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:28:19 [warn] 10268#5572: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:28:19 [warn] 6700#6768: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:28:19 [warn] 5608#6912: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:28:19 [warn] 5068#1596: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:28:19 [warn] 9876#6796: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:28:19 [warn] 1484#9272: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:29:09 [warn] 11668#11672: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:29:09 [warn] 11736#11740: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:29:09 [warn] 11804#11808: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:29:09 [warn] 11868#11872: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:29:09 [warn] 11932#11936: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:29:09 [warn] 11996#12000: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:29:09 [warn] 12060#12064: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:29:10 [warn] 12124#12128: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:29:10 [warn] 12188#12192: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:30:31 [warn] 11888#11884: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:30:31 [warn] 11596#11600: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:30:31 [warn] 11088#1640: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:30:31 [warn] 11276#11280: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:30:31 [warn] 11384#9452: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:30:31 [warn] 10916#5592: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:30:31 [warn] 8948#6348: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:30:32 [warn] 10516#1768: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:30:32 [warn] 5032#11480: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:33:03 [warn] 11472#11684: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:33:03 [warn] 6768#11376: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:33:03 [warn] 1796#12044: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:33:03 [warn] 12204#12208: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:33:03 [warn] 7744#3460: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:33:03 [warn] 220#7336: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:33:03 [warn] 11780#11788: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:33:03 [warn] 11592#11468: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:33:03 [warn] 5788#6472: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:33:37 [warn] 12180#12176: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:33:37 [warn] 5400#12128: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:33:37 [warn] 11696#6136: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:33:37 [warn] 11980#12004: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:33:37 [warn] 11888#11600: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:33:37 [warn] 11596#12280: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:33:38 [warn] 10044#9320: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:33:38 [warn] 7436#10824: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:33:38 [warn] 10516#5032: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:34:29 [warn] 5704#1280: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:34:29 [warn] 11320#9260: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:34:29 [warn] 12032#12024: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:34:29 [warn] 7320#5756: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:34:29 [warn] 6412#12208: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:34:29 [warn] 7336#6768: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:34:30 [warn] 12268#11804: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:34:30 [warn] 11536#11984: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:34:30 [warn] 11268#220: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:39:52 [warn] 11568#11452: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:39:52 [warn] 3936#11660: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:39:52 [warn] 692#944: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:39:52 [warn] 1236#3132: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:39:53 [warn] 6328#6324: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:39:53 [warn] 1268#1272: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:39:53 [warn] 1680#1676: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:39:53 [warn] 1896#3096: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:39:53 [warn] 4832#4840: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:45:31 [warn] 4684#2448: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:45:31 [emerg] 4684#2448: invalid event type "epoll" in D:\soft\nginx-1.12.2/conf/nginx.conf:14
+2018/03/28 15:48:06 [warn] 11068#10816: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:48:06 [warn] 7336#216: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:48:06 [warn] 8576#10904: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:48:06 [warn] 12140#7752: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:48:06 [warn] 5464#12028: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:48:06 [warn] 7320#10720: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:48:06 [warn] 3856#3844: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:48:06 [warn] 3936#3280: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:48:06 [warn] 2268#11256: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:48:36 [warn] 2672#2668: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:48:36 [emerg] 2672#2668: invalid event type "epoll" in D:\soft\nginx-1.12.2/conf/nginx.conf:14
+2018/03/28 15:48:56 [warn] 2132#2016: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:48:56 [emerg] 2132#2016: invalid event type "epoll" in D:\soft\nginx-1.12.2/conf/nginx.conf:14
+2018/03/28 15:50:01 [warn] 10940#11996: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:50:01 [emerg] 10940#11996: invalid event type "epoll" in D:\soft\nginx-1.12.2/conf/nginx.conf:14
+2018/03/28 15:50:39 [warn] 10572#9756: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:50:39 [warn] 6260#2236: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:50:40 [warn] 1724#5000: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:50:40 [warn] 11956#11332: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:50:40 [warn] 3816#11888: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:50:40 [warn] 11992#12028: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:50:40 [warn] 10720#11820: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:50:40 [warn] 11692#6432: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 15:50:40 [warn] 3760#12140: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/03/28 16:39:24 [error] 6260#8416: *1 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: devsys.plrt88.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8088/", host: "devsys.plrt88.com"
+2018/03/28 16:40:24 [error] 6260#8416: *1 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: devsys.plrt88.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8088/favicon.ico", host: "devsys.plrt88.com", referrer: "http://devsys.plrt88.com/"
+2018/04/08 16:53:46 [warn] 14328#11916: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 16:53:46 [warn] 12052#14716: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 16:53:46 [warn] 11028#13868: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 16:53:46 [warn] 11000#13864: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 16:53:46 [warn] 12600#14668: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 16:53:46 [warn] 336#9944: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 16:53:46 [warn] 7480#15140: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 16:53:47 [warn] 2764#12120: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 16:53:47 [warn] 11724#13220: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 16:58:32 [warn] 14364#13388: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 16:58:33 [warn] 14552#10504: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 16:58:33 [warn] 13896#14068: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 16:58:33 [warn] 10896#13484: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 16:58:33 [warn] 14620#1476: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 16:58:33 [warn] 7744#14328: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 16:58:33 [warn] 15080#2504: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 16:58:33 [warn] 12640#15164: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 16:58:33 [warn] 13412#2448: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 17:07:58 [warn] 8388#12068: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 17:07:58 [warn] 14220#14904: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 17:07:58 [warn] 14504#14132: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 17:07:58 [warn] 12344#11088: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 17:07:58 [warn] 14352#10568: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 17:07:58 [warn] 10436#10656: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 17:07:59 [warn] 2188#572: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 17:07:59 [warn] 13680#6500: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/08 17:07:59 [warn] 12824#14756: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:24:48 [warn] 27396#22416: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:24:48 [warn] 15992#19492: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:24:48 [warn] 68124#25512: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:24:48 [warn] 23908#20100: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:24:48 [warn] 25616#14384: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:24:48 [warn] 64340#20000: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:24:48 [warn] 30732#19712: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:24:49 [warn] 23056#25176: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:24:49 [warn] 41900#11528: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:27:29 [warn] 25656#28748: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:27:29 [warn] 2916#12920: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:27:29 [warn] 31176#31048: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:27:29 [warn] 34848#34604: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:27:29 [warn] 10012#31420: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:27:29 [warn] 31400#46904: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:27:29 [warn] 42304#25276: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:27:29 [warn] 27468#30024: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:27:29 [warn] 32968#31356: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:32:45 [error] 2916#23732: *1034 maximum number of descriptors supported by select() is 1024 while connecting to upstream, client: 127.0.0.1, server: dev.plrt88.com, request: "GET /asset/css/image/flg.png HTTP/1.0", upstream: "http://127.0.0.1:80/asset/css/image/flg.png", host: "dev.plrt88.com", referrer: "http://dev.plrt88.com/asset/css/index.css"
+2018/04/11 16:34:40 [warn] 22796#31236: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:34:40 [warn] 40132#18572: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:34:40 [warn] 34184#31424: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:34:40 [warn] 2788#22104: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:34:40 [warn] 20776#5308: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:34:41 [warn] 30256#36900: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:34:41 [warn] 35148#10716: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:34:41 [warn] 28556#37412: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:34:41 [warn] 800#35584: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:34:58 [error] 40132#39080: *1 CreateFile() "D:\soft\nginx-1.12.2/html/asset/css/image/flg.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: dev.plrt88.com, request: "GET /asset/css/image/flg.png HTTP/1.1", host: "dev.plrt88.com", referrer: "http://dev.plrt88.com/asset/css/index.css"
+2018/04/11 16:36:30 [error] 40132#39080: *1 CreateFile() "D:\soft\nginx-1.12.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: dev.plrt88.com, request: "GET /favicon.ico HTTP/1.1", host: "dev.plrt88.com", referrer: "http://dev.plrt88.com/"
+2018/04/11 16:36:31 [error] 40132#39080: *1 CreateFile() "D:\soft\nginx-1.12.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: dev.plrt88.com, request: "GET /favicon.ico HTTP/1.1", host: "dev.plrt88.com", referrer: "http://dev.plrt88.com/"
+2018/04/11 16:36:31 [error] 40132#39080: *1 CreateFile() "D:\soft\nginx-1.12.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: dev.plrt88.com, request: "GET /favicon.ico HTTP/1.1", host: "dev.plrt88.com", referrer: "http://dev.plrt88.com/"
+2018/04/11 16:36:31 [error] 40132#39080: *1 CreateFile() "D:\soft\nginx-1.12.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: dev.plrt88.com, request: "GET /favicon.ico HTTP/1.1", host: "dev.plrt88.com", referrer: "http://dev.plrt88.com/"
+2018/04/11 16:36:31 [error] 40132#39080: *1 CreateFile() "D:\soft\nginx-1.12.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: dev.plrt88.com, request: "GET /favicon.ico HTTP/1.1", host: "dev.plrt88.com", referrer: "http://dev.plrt88.com/"
+2018/04/11 16:36:31 [error] 40132#39080: *1 CreateFile() "D:\soft\nginx-1.12.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: dev.plrt88.com, request: "GET /favicon.ico HTTP/1.1", host: "dev.plrt88.com", referrer: "http://dev.plrt88.com/"
+2018/04/11 16:36:31 [error] 40132#39080: *1 CreateFile() "D:\soft\nginx-1.12.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: dev.plrt88.com, request: "GET /favicon.ico HTTP/1.1", host: "dev.plrt88.com", referrer: "http://dev.plrt88.com/"
+2018/04/11 16:36:32 [error] 40132#39080: *1 CreateFile() "D:\soft\nginx-1.12.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: dev.plrt88.com, request: "GET /favicon.ico HTTP/1.1", host: "dev.plrt88.com", referrer: "http://dev.plrt88.com/"
+2018/04/11 16:36:32 [error] 40132#39080: *1 CreateFile() "D:\soft\nginx-1.12.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: dev.plrt88.com, request: "GET /favicon.ico HTTP/1.1", host: "dev.plrt88.com", referrer: "http://dev.plrt88.com/"
+2018/04/11 16:36:32 [error] 40132#39080: *1 CreateFile() "D:\soft\nginx-1.12.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: dev.plrt88.com, request: "GET /favicon.ico HTTP/1.1", host: "dev.plrt88.com", referrer: "http://dev.plrt88.com/"
+2018/04/11 16:36:32 [error] 40132#39080: *1 CreateFile() "D:\soft\nginx-1.12.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: dev.plrt88.com, request: "GET /favicon.ico HTTP/1.1", host: "dev.plrt88.com", referrer: "http://dev.plrt88.com/"
+2018/04/11 16:36:32 [error] 40132#39080: *1 CreateFile() "D:\soft\nginx-1.12.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: dev.plrt88.com, request: "GET /favicon.ico HTTP/1.1", host: "dev.plrt88.com", referrer: "http://dev.plrt88.com/"
+2018/04/11 16:36:32 [error] 40132#39080: *1 CreateFile() "D:\soft\nginx-1.12.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: dev.plrt88.com, request: "GET /favicon.ico HTTP/1.1", host: "dev.plrt88.com", referrer: "http://dev.plrt88.com/"
+2018/04/11 16:36:32 [error] 40132#39080: *1 CreateFile() "D:\soft\nginx-1.12.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: dev.plrt88.com, request: "GET /favicon.ico HTTP/1.1", host: "dev.plrt88.com", referrer: "http://dev.plrt88.com/"
+2018/04/11 16:36:33 [error] 40132#39080: *1 CreateFile() "D:\soft\nginx-1.12.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: dev.plrt88.com, request: "GET /favicon.ico HTTP/1.1", host: "dev.plrt88.com", referrer: "http://dev.plrt88.com/"
+2018/04/11 16:36:44 [warn] 36636#35072: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:36:44 [warn] 34992#34924: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:36:44 [warn] 41880#35888: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:36:44 [warn] 50376#66104: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:36:44 [warn] 28756#39820: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:36:44 [warn] 29868#41524: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:36:44 [warn] 33840#66668: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:36:44 [warn] 16980#5076: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:36:44 [warn] 37124#37292: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:36:57 [error] 34992#40524: *1023 maximum number of descriptors supported by select() is 1024 while connecting to upstream, client: 127.0.0.1, server: dev.plrt88.com, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:80/", host: "dev.plrt88.com"
+2018/04/11 16:36:58 [error] 34992#40524: *2048 maximum number of descriptors supported by select() is 1024 while waiting for request, client: 127.0.0.1, server: 0.0.0.0:80
+2018/04/11 16:36:58 [error] 34992#40524: *2046 WSARecv() failed (10053: An established connection was aborted by the software in your host machine) while reading response header from upstream, client: 127.0.0.1, server: dev.plrt88.com, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:80/", host: "dev.plrt88.com"
+2018/04/11 16:36:58 [error] 34992#40524: *3070 maximum number of descriptors supported by select() is 1024 while waiting for request, client: 127.0.0.1, server: 0.0.0.0:80
+2018/04/11 16:36:58 [error] 34992#40524: *3068 WSARecv() failed (10053: An established connection was aborted by the software in your host machine) while reading response header from upstream, client: 127.0.0.1, server: dev.plrt88.com, request: "GET /favicon.ico HTTP/1.0", upstream: "http://127.0.0.1:80/favicon.ico", host: "dev.plrt88.com", referrer: "http://dev.plrt88.com/"
+2018/04/11 16:36:59 [error] 34992#40524: *4092 maximum number of descriptors supported by select() is 1024 while waiting for request, client: 127.0.0.1, server: 0.0.0.0:80
+2018/04/11 16:36:59 [error] 34992#40524: *4090 maximum number of descriptors supported by select() is 1024 while connecting to upstream, client: 127.0.0.1, server: dev.plrt88.com, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:80/", host: "dev.plrt88.com"
+2018/04/11 16:36:59 [error] 34992#40524: *4086 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: dev.plrt88.com, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:80/", host: "dev.plrt88.com"
+2018/04/11 16:36:59 [error] 34992#40524: *5081 maximum number of descriptors supported by select() is 1024 while connecting to upstream, client: 127.0.0.1, server: dev.plrt88.com, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:80/", host: "dev.plrt88.com"
+2018/04/11 16:37:00 [error] 34992#40524: *5474 maximum number of descriptors supported by select() is 1024 while waiting for request, client: 127.0.0.1, server: 0.0.0.0:80
+2018/04/11 16:37:00 [error] 34992#40524: *5472 maximum number of descriptors supported by select() is 1024 while connecting to upstream, client: 127.0.0.1, server: dev.plrt88.com, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:80/", host: "dev.plrt88.com"
+2018/04/11 16:37:00 [error] 34992#40524: *5470 WSARecv() failed (10053: An established connection was aborted by the software in your host machine) while reading response header from upstream, client: 127.0.0.1, server: dev.plrt88.com, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:80/", host: "dev.plrt88.com"
+2018/04/11 16:37:00 [error] 34992#40524: *6496 maximum number of descriptors supported by select() is 1024 while waiting for request, client: 127.0.0.1, server: 0.0.0.0:80
+2018/04/11 16:37:00 [error] 34992#40524: *6494 WSARecv() failed (10053: An established connection was aborted by the software in your host machine) while reading response header from upstream, client: 127.0.0.1, server: dev.plrt88.com, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:80/", host: "dev.plrt88.com"
+2018/04/11 16:37:01 [error] 34992#40524: *7516 maximum number of descriptors supported by select() is 1024 while waiting for request, client: 127.0.0.1, server: 0.0.0.0:80
+2018/04/11 16:37:01 [error] 34992#40524: *7514 WSARecv() failed (10053: An established connection was aborted by the software in your host machine) while reading response header from upstream, client: 127.0.0.1, server: dev.plrt88.com, request: "GET /favicon.ico HTTP/1.0", upstream: "http://127.0.0.1:80/favicon.ico", host: "dev.plrt88.com", referrer: "http://dev.plrt88.com/"
+2018/04/11 16:37:03 [error] 34992#40524: *8536 maximum number of descriptors supported by select() is 1024 while waiting for request, client: 127.0.0.1, server: 0.0.0.0:80
+2018/04/11 16:37:03 [error] 34992#40524: *8534 WSARecv() failed (10053: An established connection was aborted by the software in your host machine) while reading response header from upstream, client: 127.0.0.1, server: dev.plrt88.com, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:80/", host: "dev.plrt88.com"
+2018/04/11 16:37:04 [error] 34992#40524: *9556 maximum number of descriptors supported by select() is 1024 while waiting for request, client: 127.0.0.1, server: 0.0.0.0:80
+2018/04/11 16:37:04 [error] 34992#40524: *9554 WSARecv() failed (10053: An established connection was aborted by the software in your host machine) while reading response header from upstream, client: 127.0.0.1, server: dev.plrt88.com, request: "GET /favicon.ico HTTP/1.0", upstream: "http://127.0.0.1:80/favicon.ico", host: "dev.plrt88.com", referrer: "http://dev.plrt88.com/"
+2018/04/11 16:37:06 [error] 34992#40524: *10576 maximum number of descriptors supported by select() is 1024 while waiting for request, client: 127.0.0.1, server: 0.0.0.0:80
+2018/04/11 16:37:06 [error] 34992#40524: *10574 maximum number of descriptors supported by select() is 1024 while connecting to upstream, client: 127.0.0.1, server: dev.plrt88.com, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:80/", host: "dev.plrt88.com"
+2018/04/11 16:37:06 [error] 34992#40524: *10572 WSARecv() failed (10053: An established connection was aborted by the software in your host machine) while reading response header from upstream, client: 127.0.0.1, server: dev.plrt88.com, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:80/", host: "dev.plrt88.com"
+2018/04/11 16:37:06 [error] 34992#40524: *11595 maximum number of descriptors supported by select() is 1024 while connecting to upstream, client: 127.0.0.1, server: dev.plrt88.com, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:80/", host: "dev.plrt88.com"
+2018/04/11 16:37:06 [error] 34992#40524: *12123 maximum number of descriptors supported by select() is 1024 while connecting to upstream, client: 127.0.0.1, server: dev.plrt88.com, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:80/", host: "dev.plrt88.com"
+2018/04/11 16:37:06 [error] 34992#40524: *12323 maximum number of descriptors supported by select() is 1024 while connecting to upstream, client: 127.0.0.1, server: dev.plrt88.com, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:80/", host: "dev.plrt88.com"
+2018/04/11 16:37:06 [error] 34992#40524: *12656 maximum number of descriptors supported by select() is 1024 while waiting for request, client: 127.0.0.1, server: 0.0.0.0:80
+2018/04/11 16:37:06 [error] 34992#40524: *12654 maximum number of descriptors supported by select() is 1024 while connecting to upstream, client: 127.0.0.1, server: dev.plrt88.com, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:80/", host: "dev.plrt88.com"
+2018/04/11 16:37:06 [error] 34992#40524: *12652 WSARecv() failed (10053: An established connection was aborted by the software in your host machine) while reading response header from upstream, client: 127.0.0.1, server: dev.plrt88.com, request: "GET /favicon.ico HTTP/1.0", upstream: "http://127.0.0.1:80/favicon.ico", host: "dev.plrt88.com", referrer: "http://dev.plrt88.com/"
+2018/04/11 16:38:03 [warn] 37704#34836: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:38:03 [warn] 41916#59028: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:38:03 [warn] 43704#37312: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:38:03 [warn] 38320#39360: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:38:03 [warn] 35204#36976: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:38:03 [warn] 41884#23192: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:38:03 [warn] 64784#43776: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:38:03 [warn] 37024#40424: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:38:03 [warn] 38760#44932: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:38:14 [warn] 20416#66160: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:38:14 [warn] 45192#56844: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:38:14 [warn] 28528#33404: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:38:14 [warn] 41240#40448: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:38:14 [warn] 40640#36040: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:38:14 [warn] 51132#29584: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:38:14 [warn] 39344#47252: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:38:15 [warn] 37116#45752: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/04/11 16:38:15 [warn] 36224#2992: "user" is not supported, ignored in D:\soft\nginx-1.12.2/conf/nginx.conf:3
+2018/12/09 12:07:10 [emerg] 1356#2920: CreateFile() "E:\study\nginxloadbalance\nginx使用\nginx-1.12.2/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2018/12/09 12:07:18 [emerg] 6476#6488: CreateFile() "E:\study\nginxloadbalance\nginx使用\nginx-1.12.2/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2018/12/09 12:09:32 [emerg] 10572#12952: CreateFile() "E:\study\nginxloadbalance\nginx使用\nginx-1.12.2/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2018/12/09 12:13:25 [emerg] 4852#3700: CreateFile() "E:\study\nginxloadbalance\nginx使用\nginx-1.12.2/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2018/12/09 12:14:21 [emerg] 11440#8588: CreateFile() "E:\study\nginxloadbalance\nginx使用\nginx-1.12.2/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2018/12/09 12:16:53 [emerg] 9684#11608: CreateFile() "E:\study\nginxloadbalance\nginx使用\nginx-1.12.2/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2018/12/09 12:20:28 [emerg] 3884#2068: CreateFile() "E:\study\nginxloadbalance\nginx使用\nginx-1.12.2/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2018/12/09 12:23:41 [emerg] 8592#9340: CreateFile() "E:\study\nginxloadbalance\nginx使用\nginx-1.12.2/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2018/12/09 12:42:11 [emerg] 11384#2684: CreateFile() "E:\study\nginxloadbalance\nginx使用\nginx-1.12.2/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2018/12/09 12:44:47 [emerg] 2920#12020: CreateFile() "E:\study\nginxloadbalance\nginx使用\nginx-1.12.2/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2018/12/09 12:48:43 [emerg] 2364#9580: CreateFile() "E:\study\nginxloadbalance\nginx使用\nginx-1.12.2/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2018/12/09 12:49:41 [emerg] 10800#9764: CreateFile() "E:\study\nginxloadbalance\nginx使用\nginx-1.12.2/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2018/12/09 12:51:54 [warn] 12580#10808: "user" is not supported, ignored in E:\study\nginxloadbalance\nginx\nginx-1.12.2/conf/nginx.conf:3
+2018/12/09 12:51:54 [emerg] 12580#10808: invalid host in upstream "192.168.2.104:8080/loadbalance/index.jsp" in E:\study\nginxloadbalance\nginx\nginx-1.12.2/conf/nginx.conf:61
+2018/12/09 12:53:05 [emerg] 12392#5800: invalid host in upstream "192.168.2.104:8080/loadbalance/index.jsp" in E:\study\nginxloadbalance\nginx\nginx-1.12.2/conf/nginx.conf:61
+2019/01/13 19:25:39 [emerg] 7576#10936: unexpected "}" in E:\study\nginxloadbalance\nginx\nginx-1.12.2/conf/nginx.conf:65
+2019/01/13 19:26:25 [emerg] 10744#6360: unexpected "}" in E:\study\nginxloadbalance\nginx\nginx-1.12.2/conf/nginx.conf:65
+2019/01/13 19:29:04 [error] 10452#1272: *1 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: test.load.com, request: "GET / HTTP/1.1", upstream: "http://192.168.1.107:18080/", host: "test.load.com:18080"
+2019/01/13 19:29:04 [error] 10452#1272: *3 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading upstream, client: 192.168.1.107, server: test.load.com, request: "GET / HTTP/1.0", upstream: "http://192.168.137.30:18080/", host: "test.load.com"
+2019/01/13 19:33:26 [error] 10452#1272: *26 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: test.load.com, request: "GET / HTTP/1.1", upstream: "http://192.168.1.107:18080/", host: "test.load.com:18080"
+2019/01/13 20:05:39 [error] 3876#4768: *1 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: 192.168.11.22, request: "GET / HTTP/1.1", upstream: "http://192.168.1.107:18080/", host: "test.load.com:18080"
+2019/01/13 20:22:52 [emerg] 13164#13104: bind() to 0.0.0.0:18080 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2019/01/13 20:31:18 [error] 13144#12664: *130 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: test.load.com, request: "GET /websocket/ws1.html HTTP/1.1", upstream: "http://192.168.1.107:8010/websocket/ws1.html", host: "test.load.com:8081"
+2019/01/13 20:31:44 [error] 13144#12664: *161 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: test.load.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.1.107:8010/favicon.ico", host: "test.load.com:8081", referrer: "http://test.load.com:8081/websocket/ws1.html"
+2019/01/13 20:31:46 [error] 13144#12664: *164 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: test.load.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.1.107:8010/favicon.ico", host: "test.load.com:8081", referrer: "http://test.load.com:8081/websocket/ws1.html"
+2019/01/13 20:32:18 [error] 13144#12664: *130 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: test.load.com, request: "GET /websocket/ws1.html HTTP/1.1", upstream: "http://192.168.1.107:8080/websocket/ws1.html", host: "test.load.com:8081"
+2019/01/13 20:32:18 [error] 13144#12664: *130 no live upstreams while connecting to upstream, client: 127.0.0.1, server: test.load.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://tomcats/favicon.ico", host: "test.load.com:8081", referrer: "http://test.load.com:8081/websocket/ws1.html"
+2019/01/13 20:32:22 [error] 13144#12664: *170 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: test.load.com, request: "GET /websocket/ws1.html HTTP/1.1", upstream: "http://192.168.1.107:8080/websocket/ws1.html", host: "test.load.com:8081"
+2019/01/13 20:32:22 [error] 13144#12664: *170 no live upstreams while connecting to upstream, client: 127.0.0.1, server: test.load.com, request: "GET /websocket/ws1.html HTTP/1.1", upstream: "http://tomcats/websocket/ws1.html", host: "test.load.com:8081"
+2019/01/13 20:32:22 [error] 13144#12664: *170 no live upstreams while connecting to upstream, client: 127.0.0.1, server: test.load.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://tomcats/favicon.ico", host: "test.load.com:8081", referrer: "http://test.load.com:8081/websocket/ws1.html"
+2019/01/13 20:33:18 [error] 13144#12664: *174 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: test.load.com, request: "GET /websocket/ws1.html HTTP/1.1", upstream: "http://192.168.1.107:8010/websocket/ws1.html", host: "test.load.com:8081"
+2019/01/13 21:10:13 [emerg] 3736#11608: bind() to 0.0.0.0:18080 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2019/01/13 21:28:44 [error] 11448#7056: *303 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: test.load.com, request: "GET /websocket/ws1.html HTTP/1.1", upstream: "http://192.168.137.30:8080/websocket/ws1.html", host: "test.load.com:8081"
+2019/01/13 21:32:51 [error] 13112#10044: *285 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: test.load.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.137.31:8080/favicon.ico", host: "test.load.com:8081", referrer: "http://test.load.com:8081/websocket/ws1.html"
+2019/01/13 21:54:11 [error] 13112#10044: *426 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: test.load.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.137.31:8080/favicon.ico", host: "test.load.com:8081", referrer: "http://test.load.com:8081/websocket/ws1.html"
+2019/01/13 21:55:11 [error] 13112#10044: *426 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: test.load.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.137.30:8080/favicon.ico", host: "test.load.com:8081", referrer: "http://test.load.com:8081/websocket/ws1.html"
+2019/01/13 21:56:28 [error] 13112#10044: *474 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: test.load.com, request: "GET /websocket/ws1.html HTTP/1.1", upstream: "http://192.168.137.31:8080/websocket/ws1.html", host: "test.load.com:8081"
+2019/01/13 22:00:33 [error] 13112#10044: *591 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: test.load.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.137.30:8080/favicon.ico", host: "test.load.com:8081", referrer: "http://test.load.com:8081/websocket/ws1.html"
+2019/01/19 11:00:08 [error] 8272#11212: *1 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: test.load.com, request: "GET /websocket/ws1.html HTTP/1.1", upstream: "http://192.168.137.30:8080/websocket/ws1.html", host: "test.load.com:8081"

@@ -1,0 +1,113 @@
+
+#user  nobody;
+#user  root;
+worker_processes  2;
+
+#error_log  logs/error.log;
+#error_log  logs/error.log  notice;
+#error_log  logs/error.log  info;
+
+#pid        logs/nginx.pid;
+
+
+events {
+#    worker_connections  1024;
+    worker_connections  30000;
+}
+
+
+http {
+    include       mime.types;
+    default_type  application/octet-stream;
+#    limit_conn_zone $binary_remote_addr zone=perip:10m;
+#    limit_conn_zone $server_name zone=perserver:10m;
+
+    #include     servers/*.conf;
+    fastcgi_intercept_errors on;
+
+    #log_format  main  '$remote_addr - $remote_user [$time_local] "$request" '
+    #                  '$status $body_bytes_sent "$http_referer" '
+    #                  '"$http_user_agent" "$http_x_forwarded_for"';
+
+    #access_log  logs/access.log  main;
+
+    #endfile        on;
+    #tcp_nopush     on;
+
+    #keepalive_timeout  0;
+    #keepalive_timeout  65;
+
+    #gzip  on;
+
+    server_tokens off;
+    sendfile        on;
+    #tcp_nopush     on;
+    #proxy_read_timeout 300;
+    #keepalive_timeout  0;
+    keepalive_timeout  65;
+    client_max_body_size 20M;
+    #proxy_intercept_errors on;
+   # gzip  on;
+   # gzip_disable "msie6";
+   # gzip_vary on;
+   # gzip_proxied any;
+   # gzip_comp_level 6;
+   # gzip_buffers 16 8k;
+   # gzip_http_version 1.1;
+   # gzip_types text/plain text/css application/json application/x-javascript text/xml application/xml application/xml+rss text/javascript;
+	
+   upstream tomcats {
+	#server 192.168.2.104:8080 weight=5;
+	server 192.168.137.30:8080;
+	server 192.168.137.31:8080;
+   }
+
+   upstream websockets {
+	#hash $remote_addr consistent;
+	server 192.168.137.30:18080;
+	server 192.168.137.31:18080;
+   }
+
+   server {
+	listen 8081;
+	server_name test.load.com;
+
+	#charset koi8-r;
+
+	#access_log logs/host.access.log main;
+
+
+	location / {
+		proxy_pass http://tomcats;
+		proxy_set_header    X-Real-IP  $remote_addr;
+		proxy_set_header    Host       $host;
+		proxy_set_header   X-Forwarded-For  $proxy_add_x_forwarded_for;
+		proxy_buffer_size 256k;
+		proxy_buffers 4 128k;
+		proxy_busy_buffers_size 256k;
+		proxy_temp_file_write_size 256k;
+		proxy_max_temp_file_size 512m;
+	}
+   }
+
+   server {
+	listen 18080;
+	server_name test.load.com;
+
+	#charset koi8-r;
+
+	#access_log logs/host.access.log main;
+
+
+	location / {
+		proxy_pass http://websockets;
+		proxy_set_header    X-Real-IP  $remote_addr;
+		proxy_set_header    Host       $host;
+		proxy_set_header   X-Forwarded-For  $proxy_add_x_forwarded_for;
+		proxy_http_version 1.1;
+                proxy_set_header Upgrade $http_upgrade;
+                proxy_set_header Connection "upgrade";
+		proxy_read_timeout 600s; 
+	}
+   }
+}
